@@ -1,0 +1,68 @@
+[
+  {
+    "filename": "test1.png",
+    "url": "src/assets/images/homepage/test1.png",
+    "category": "homepage",
+    "description": " LEET photo"
+  },
+  {
+    "filename": "test3.png",
+    "url": "src/assets/images/homepage/test3.png",
+    "category": "homepage",
+    "description": "Sample homepage photo"
+  },
+  {
+    "filename": "test4.png",
+    "url": "src/assets/images/homepage/test4.png",
+    "category": "homepage",
+    "description": "Sample homepage photo"
+  },
+  {
+    "filename": "test5.png",
+    "url": "src/assets/images/homepage/test5.png",
+    "category": "homepage",
+    "description": "Sample homepage photo"
+  },
+  {
+    "filename": "test6.png",
+    "url": "src/assets/images/homepage/test6.png",
+    "category": "homepage",
+    "description": "Sample homepage photo"
+  },
+  {
+    "filename": "test3.png",
+    "url": "/src/assets/images/wedding/test3.png",
+    "category": "wedding",
+    "description": "Sample wedding photo"
+  },
+  {
+    "filename": "test1.jpg",
+    "url": "/src/assets/images/funeral/test1.jpg",
+    "category": "funeral",
+    "description": "Sample1 funeral photo"
+  },
+  {
+    "filename": "test1.jpg",
+    "url": "/src/assets/images/funeral/test1.jpg",
+    "category": "funeral",
+    "description": "Sample funeral photo"
+  },
+  {
+    "filename": "test1.jpg",
+    "url": "/src/assets/images/funeral/test1.jpg",
+    "category": "funeral",
+    "description": "Sample funeral photo"
+  },
+  {
+    "filename": "test1.jpg",
+    "url": "/src/assets/images/funeral/test1.jpg",
+    "category": "funeral",
+    "description": "Sample funeral photo"
+  },
+  {
+    "filename": "test1.jpg",
+    "url": "/src/assets/images/funeral/test1.jpg",
+    "category": "funeral",
+    "description": "Sample funeral photo"
+  }
+]
