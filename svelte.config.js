@@ -1,16 +1,7 @@
-import adapter from '@sveltejs/adapter-static';
+import cloudflare from '@sveltejs/adapter-cloudflare';
 
-const config = {
+export default {
   kit: {
-    adapter: adapter({
-      pages: 'build', 
-      assets: 'build',
-      fallback: null, 
-    }),
-    prerender: {
-      handleMissingId: 'ignore', // Ignore missing assets during prerender
-    },
-  },
+    adapter: cloudflare()
+  }
 };
-
-export default config;
