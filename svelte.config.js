@@ -3,11 +3,14 @@ import adapter from '@sveltejs/adapter-static';
 const config = {
   kit: {
     adapter: adapter({
-      pages: 'build',
+      pages: 'build', 
       assets: 'build',
-      fallback: null
-    })
-  }
+      fallback: null,
+    }),
+    prerender: {
+      entries: ['*'], 
+    },
+  },
 };
 
 export default config;
