@@ -5,10 +5,10 @@ const config = {
     adapter: adapter({
       pages: 'build', 
       assets: 'build',
-      fallback: null,
+      fallback: null, 
     }),
     prerender: {
-      entries: ['*'], 
+      handleMissingId: 'ignore', // Ignore missing assets during prerender
     },
   },
 };
